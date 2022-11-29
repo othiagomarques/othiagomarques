@@ -11,8 +11,15 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomarques&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othiagomarques&theme=tokyonight&show_icons=true)
 
 
 ## Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=othiagomarques&repo=othiagomarques.github.io)](https://othiagomarques.github.io/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=othiagomarques&theme=tokyonight&show&repo=othiagomarques.github.io)](https://othiagomarques.github.io/)
+
+## Linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomarques&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contatos
+![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
